@@ -1,0 +1,13 @@
+{
+  "toggle_keys": [
+    "alt"
+  ],
+  "type_keys": [
+    "shift",
+    "cmd"
+  ],
+  "letter_delay": 0.05,
+  "sentence_delay": 1.0,
+  "always_on_top": false,
+  "audio_enabled": true
+}
